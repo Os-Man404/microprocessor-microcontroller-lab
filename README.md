@@ -31,9 +31,6 @@ This repository contains my Microprocessors and Microcontrollers Lab projects de
 
 ![Wireless Theft Detection](mini-project-05-wireless-theft-detection/demo.gif)
 
-### Remote AC Bulb Control
-
-![Remote AC Bulb Control](mini-project-06-remote-ac-bulb-control/demo.gif)
 
 ## Course Information
 
